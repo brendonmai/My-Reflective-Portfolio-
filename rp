@@ -1,0 +1,80 @@
+echo "# My-Reflective-Portfolio-" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/brendonmai/My-Reflective-Portfolio-.git
+git push -u origin main
+
+Week 1
+
+Lesson review 
+During the first lecture I understood very little of the content and the course entirely. I attempted to take down notes within the first section but was quick to give up as without any poor knowledge to the course it didn’t make much sense. It was until I reviewed the slides and completed the pre-work that I started to understand the content in the first module. 
+
+What I learn 
+
+Pre-work:
+From completely this work, the main takeaway was what a Complex Adaptive system was and how humans fit into it. 
+Complex Adaptive systems is that it is a system in which adapt through two ways learning and evolution and that society is a Complex system. With everyone being the individual parts and not being able to do much while together as a society we advance. 
+
+Slides:
+The content from the module one slides was the most difficult for me to grasp the concept of but after studying the slides, I found three major takeaways 
+What emergence was and how it works
+Example: a single ant can’t do much but when they form ant colonies they perform excellently better
+What a socio-technical system was and that a technical and social system was the parts to make it up.
+A system where users interact with a technical system
+How the parts and the relationships interact with each other to perform functions 
+
+Work
+After completing the discussion board for the current week. I was able to complete question 1 & 2 to a satisfactory degree but question 3 is what I found the hardest. Reading through the three models it was obvious that the standing ovation was based on its boundaries then being predictable. The bees worked in patterns but the two cities were the models that I could not understand to the extent as I did the other two models. 
+
+Overall review 
+After finishing everything in the first week, I feel like I have a stronger understanding of the basic concepts provided but I struggle with applying the concepts and higher understanding. 
+
+
+
+
+
+
+Week 2
+What have I learnt this week?
+The main topic wwe covered this week was many modelling and how it can  help in situations with people. Dictating and predicting how people would react, especially in crowds. Learning how the wisdom of crowds works and a few examples, such as the submarine.  
+What do I 'now know' that I did not before?
+Many modelling ,The types of many modelling ,REDCAPE and The wisdom of crowds
+
+What insights have I gained?
+The main insight in which I was given is the wisdom of crowds and how easily they can be persuaded and their decision influences. If a single answer the whole crowd answers changes towards that given answer.
+What are (my/the) perceived strengths and weaknesses that I have observed?
+My strength lies with understanding the given concepts and explaining them but my weakness is applying the concepts to a question of any given events. 
+What were the challenges I have encountered/observed and how well (did I/my team) handle them?
+My main challenge is first understanding the ideas/concepts during the lecture but when reviewing the many modelling in self study. I begin to have a much stronger understanding of the concepts. 
+What would I do better next time and with what anticipated results?
+To read through the material before the lecture to have a understanding before the lecture 
+What theory proved to be useful and why? What have I learnt from this?
+The wisdom of crowds
+
+
+
+
+
+
+
+
+
+Week 3
+What have I learnt this week?
+Behaviour models, Decision models, Signalling, Value & Power and Problem Solving 
+What do I 'now know' that I did not before?
+The main area which I learned about was the Problem Solving section and what heuristics and recombination were.
+What insights have I gained?
+The main insight in which I gained was how to improve making solutions better and the stuff which can help in making solutions easier to find. Such as decision trees 
+What are (my/the) perceived strengths and weaknesses that I have observed?
+My strengths were understanding the core concept of what module 3 was and each of the sections covered in the lecture. 
+My weakness is understanding the examples presented in the lecture and how it related to the concepts.
+What were the challenges I have encountered/observed and how well (did I/my team) handle them?
+There was no challenges this week which I did overcome 
+What would I do better next time and with what anticipated results?
+To ask more questions when the examples are being taught 
+What theory proved to be useful and why? What have I learnt from this?
+Perspective +Heuristics + Team diversity + Recombination  = Innovation 
+ 
